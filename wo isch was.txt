@@ -1,0 +1,20 @@
+app/		Core application (app) code, including models, views, controllers, and helpers
+app/assets	Applications assets such as cascading style sheets (CSS), JavaScript files, and images
+config/		Application configuration
+db/		Database files
+doc/		Documentation for the application
+lib/		Library modules
+lib/assets	Library assets such as cascading style sheets (CSS), JavaScript files, and images
+log/		Application log files
+public/		Data accessible to the public (e.g., web browsers), such as error pages
+script/rails	A script for generating code, opening console sessions, or starting a local server
+test/		Application tests (made obsolete by the spec/ directory in Section 3.1.2)
+tmp/		Temporary files
+vendor/		Third-party code such as plugins and gems
+vendor/assets	Third-party assets such as cascading style sheets (CSS), JavaScript files, and images
+README.rdoc	A brief description of the application
+Rakefile	Utility tasks available via the rake command
+Gemfile		Gem requirements for this app
+Gemfile.lock	A list of gems used to ensure that all copies of the app use the same gem versions
+config.ru	A configuration file for Rack middleware
+.gitignore	Patterns for files that should be ignored by Git
